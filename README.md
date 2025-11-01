@@ -17,5 +17,4 @@
 
 ```bash
 ## Запуск программы 
-
 pip install -r requirements.txt
