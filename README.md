@@ -16,4 +16,6 @@
   - [Pygame](https://www.pygame.org/news)  
 
 ```bash
+## Запуск программы 
+
 pip install -r requirements.txt
